@@ -31,7 +31,7 @@ StudySync is an iOS and Android mobile app that centralizes all academic respons
 ## Prototype
 
 Built in Figma — view the interactive prototype here:  
-[StudySync Figma Prototype](https://www.figma.com/proto/7U2Ft6dZAuoDcKXFYrtBea/Cpcs381_Project?node-id=18-8&p=f&t=ONel9kgusJL8AidV-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A33&show-proto-sidebar=1)
+[StudySync Figma Prototype]([https://www.figma.com/proto/7U2Ft6dZAuoDcKXFYrtBea/Cpcs381_Project?node-id=18-8&p=f&t=ONel9kgusJL8AidV-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A33&show-proto-sidebar=1](https://www.figma.com/design/7U2Ft6dZAuoDcKXFYrtBea/Group13_Cpcs381_Project?m=auto&t=mhJ3BkVF4Vuu5uzB-1))
 
 ### Screens Preview
 
